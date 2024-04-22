@@ -1,1 +1,1 @@
-# Internship
+## Internship with Epsilon AI
